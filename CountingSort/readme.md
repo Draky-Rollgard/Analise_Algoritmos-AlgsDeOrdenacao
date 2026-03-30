@@ -7,7 +7,7 @@ Makefile:
 ```
 make
 make run
-male clean
+make clean
 ```
 
 Shell Script (Linux):
