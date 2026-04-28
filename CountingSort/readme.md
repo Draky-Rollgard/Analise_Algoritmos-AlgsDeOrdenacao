@@ -14,10 +14,10 @@ Os elementos a serem ordenados são números inteiros pequenos, isto é, inteiro
 
 ## Aplicações de contagem Sort
 Algoritmo comumente usado para os casos em que temos itens de alcance limitado. Assim como também é usado de sub-rotina em Radix Sort.
-A ideia de classificar contagem é usada no Bucket Sort para dividir elementos em "baldes"
+A ideia de classificar contagem é usada no Bucket Sort para dividir elementos em "baldes".
 
 ## Vantagens e desvantagens
-| Vantagens | Right columns |
+| Vantagens | Desvantagens |
 | ------------- |:-------------:|
 | Tempo linear      | Ineficiencia p/ grandes intervalos     |
 | Estabilidade      | Limitado     |
