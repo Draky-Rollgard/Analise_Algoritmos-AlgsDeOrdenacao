@@ -1,0 +1,7 @@
+*.exe
+*.out
+a.out
+counting_sort
+
+*.o
+*.obj
